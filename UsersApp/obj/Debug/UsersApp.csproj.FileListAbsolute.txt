@@ -21,3 +21,11 @@ C:\Users\olego\RiderProjects\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CoreCom
 C:\Users\olego\RiderProjects\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
 C:\Users\olego\RiderProjects\UsersApp\UsersApp\obj\Debug\UsersApp.exe
 C:\Users\olego\RiderProjects\UsersApp\UsersApp\obj\Debug\UsersApp.pdb
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\EntityFramework.dll
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\EntityFramework.xml
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olego\RiderProjects\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.xml

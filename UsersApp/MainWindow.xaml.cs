@@ -9,9 +9,12 @@ namespace UsersApp
     /// </summary>
     public partial class MainWindow
     {
+        private ApplicationContext db;
+        
         public MainWindow()
         {
             InitializeComponent();
+            db = new ApplicationContext();
         }
 
         private void RegButton_Click(object sender, RoutedEventArgs e)
@@ -53,6 +56,10 @@ namespace UsersApp
                 textBoxEmail.Background = Brushes.Transparent;
 
                 MessageBox.Show("Успешно");
+                User user = new User(login, email, password);
+
+                db.Users.Add(user);
+                db.SaveChanges();
             }
         }
     }
